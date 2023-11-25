@@ -37,5 +37,6 @@ class ChessGame(tk.Tk):
                 
 
     
+#Cambio3 
 chess_game = ChessGame()
 chess_game.mainloop()
